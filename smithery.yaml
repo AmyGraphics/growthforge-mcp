@@ -1,0 +1,26 @@
+name: growthforge-mcp
+displayName: GrowthForge - Autonomous Growth Engineering, Product Analytics & A/B Testing Engine MCP
+description: Universal growth engine for Cursor, Claude Code & Windsurf. Architects complete growth systems (north star metric trees, growth loop vs funnel matrices, AARRR benchmarks, analytics stack selection), designs event tracking plans (taxonomies, identity resolution, server vs client rules, privacy compliance), runs statistically-sound A/B tests (real sample size math, peeking and SRM traps, significance analysis code, ship/iterate/kill rules), optimizes conversion funnels (aha-moment discovery, ICE-ranked fix lists with expected lifts), and builds retention engines (cohort curve reading, habit loops, churn prediction signals, resurrection playbooks).
+category: developer-tools
+homepage: https://github.com/AmyGraphics/growthforge-mcp
+repository: https://github.com/AmyGraphics/growthforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/growthforge-mcp/main/icon.png
+keywords:
+  - growth
+  - product-analytics
+  - ab-testing
+  - experimentation
+  - event-tracking
+  - posthog
+  - retention
+  - churn
+  - conversion-optimization
+  - onboarding
+  - activation
+  - funnels
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://growthforge-api.agentweb-hub.workers.dev/mcp

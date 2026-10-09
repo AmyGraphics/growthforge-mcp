@@ -1,0 +1,9 @@
+{
+  "name": "growthforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Growth Engineering: Product Analytics, Event Tracking, A/B Testing Statistics, Funnel Optimization & Retention Engine MCP for Cursor, Claude & Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
